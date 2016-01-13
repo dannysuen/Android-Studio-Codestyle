@@ -1,4 +1,4 @@
-<code_scheme name="CustomizedAndroidStyle">
+<code_scheme name="2345AndroidStyle">
   <option name="JAVA_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="4" />
@@ -70,6 +70,9 @@
   <option name="DOWHILE_BRACE_FORCE" value="3" />
   <option name="WHILE_BRACE_FORCE" value="3" />
   <option name="FOR_BRACE_FORCE" value="3" />
+  <AndroidXmlCodeStyleSettings>
+    <option name="USE_CUSTOM_SETTINGS" value="true" />
+  </AndroidXmlCodeStyleSettings>
   <Objective-C-extensions>
     <option name="GENERATE_INSTANCE_VARIABLES_FOR_PROPERTIES" value="ASK" />
     <option name="RELEASE_STYLE" value="IVAR" />
